@@ -92,6 +92,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtocolosParalel", "Protoc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchMark.Yield", "BenchMark.Yield\BenchMark.Yield.csproj", "{8892CB3F-F635-4B59-9EC4-7A382717B2F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BanchMark.DisposePrivate", "BanchMark.DisposePrivate\BanchMark.DisposePrivate.csproj", "{2BE9F963-22BC-4004-9227-A516BD6B47BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -210,6 +212,10 @@ Global
 		{8892CB3F-F635-4B59-9EC4-7A382717B2F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8892CB3F-F635-4B59-9EC4-7A382717B2F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8892CB3F-F635-4B59-9EC4-7A382717B2F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE9F963-22BC-4004-9227-A516BD6B47BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE9F963-22BC-4004-9227-A516BD6B47BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE9F963-22BC-4004-9227-A516BD6B47BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE9F963-22BC-4004-9227-A516BD6B47BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -246,5 +252,6 @@ Global
 		{8B6278F9-E9FC-479F-B7D3-3A33F50A8F57} = {F1962C42-E1BD-4C41-8E48-E45DDE8822E7}
 		{25A37637-C84F-4DDE-AB6C-BEE7FF509AD2} = {6F0E66E9-2BFC-425D-969D-DA3132D75845}
 		{8892CB3F-F635-4B59-9EC4-7A382717B2F7} = {F1962C42-E1BD-4C41-8E48-E45DDE8822E7}
+		{2BE9F963-22BC-4004-9227-A516BD6B47BF} = {F1962C42-E1BD-4C41-8E48-E45DDE8822E7}
 	EndGlobalSection
 EndGlobal
